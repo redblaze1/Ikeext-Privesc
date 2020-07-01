@@ -44,7 +44,7 @@ PS C:\temp> Invoke-IkeextCheck -Verbose
 ```
 
 <p align="center">
-  <img src="https://github.com/itm4n/Ikeext-Privesc/raw/master/screenshots/03_ikeextcheck-verbose.png">
+  <img src="https://raw.githubusercontent.com/redblaze1/Ikeext-Privesc/master/screenshots/03_ikeextcheck-verbose.png">
 </p>
 
 ### Exploit 

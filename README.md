@@ -3,7 +3,7 @@
 This tool is intended for automatically detecting and exploiting the IKE and AuthIP IPsec Keyring Modules Service (IKEEXT) Missing DLL vulnerability.
 
 <p align="center">
-  <img src="https://github.com/itm4n/Ikeext-Privesc/raw/master/screenshots/00_ikeext-exploit-video.gif">
+  <img src="https://raw.githubusercontent.com/redblaze1/Ikeext-Privesc/master/screenshots/00_ikeext-exploit-video.gif">
 </p>
 
 ## Description 
@@ -15,7 +15,7 @@ In Windows there is a service called IKEEXT (IKE and AuthIP IPsec Keyring Module
 IKEEXT trying to load 'wlbsctrl.dll':
 
 <p align="center">
-  <img src="https://github.com/itm4n/Ikeext-Privesc/raw/master/screenshots/01_procmon-dll-search-order.png">
+  <img src="https://raw.githubusercontent.com/redblaze1/Ikeext-Privesc/master/screenshots/01_procmon-dll-search-order.png">
 </p>
 
 ## Usage 
@@ -76,7 +76,7 @@ PS C:\temp> Invoke-IkeextExploit
 ```
 
 <p align="center">
-  <img src="https://github.com/itm4n/Ikeext-Privesc/raw/master/screenshots/04_ikeextexploit.PNG">
+  <img src="https://raw.githubusercontent.com/redblaze1/Ikeext-Privesc/master/screenshots/04_ikeextexploit.PNG">
 </p>
 
 ## Credits 
